@@ -24,5 +24,5 @@ O código está pela metade, e você deverá dar continuidade obedecendo as regr
 
 ## Incrementos
 - gerador de IMEI;
-- padronização de nomeclartura de modelo;
+- padronização de nomenclatura de modelo;
 - sobescrita do método 'ToString';
